@@ -30,7 +30,7 @@ if __name__ == "__main__":
     print(".Set MaxCabinetSize=0;")
     print(".Set MaxDiskFileCount=0;")
     print(".Set MaxDiskSize=0;")
-    print(".Set CompressionType=MSZIP;")
+    print(".Set CompressionType=LZX;")
     print(".Set Cabinet=on;")
     print(".Set Compress=on;")
     print("; Specify file name for new cab file;")
